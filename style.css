@@ -1,0 +1,30 @@
+h1{font-family: cursive;
+    color: rgb(32, 243, 9);
+}
+#earth{
+    color: rgb(241, 14, 173);
+}
+div>p{
+    color: rgb(226, 246, 14);
+}
+h2{
+    color: chartreuse;
+}
+h3{font-family: 'Trebuchet MS';
+    color: darkmagenta;
+}
+h1{
+    background-color:yellow;
+}
+body{
+    background-color: rgb(119, 92, 113);
+}
+h4{
+    color: rgb(245, 90, 12);
+}
+#tree{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(237, 13, 13);
+}
+.trees{font-family: 'Times New Roman', Times, serif;
+    color: indigo;
+}
